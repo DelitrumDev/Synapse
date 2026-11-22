@@ -122,7 +122,7 @@
 
 ## 📬 Связь
 
-Вопросы, предложения, баги → **DelitrumSynapseSupport@gmail.com**
+Вопросы, предложения, баги → **DevSynapseSupport@gmail.com**
 
 ---
 
