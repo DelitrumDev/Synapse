@@ -1,3 +1,5 @@
+<img width="1920" height="960" alt="e4bb193e-64dc-43ec-a8c5-6fafee866b8a" src="https://github.com/user-attachments/assets/86ec9327-a7b8-4c32-8712-4b79ddb373e0" />
+
 ![version](https://img.shields.io/badge/version-1.1.0-4FC3F7)
 ![platform](https://img.shields.io/badge/platform-Windows%20%7C%20Android-8CD9B8)
 ![GitHub release](https://img.shields.io/github/v/release/DelitrumDev/synapse)
