@@ -3,7 +3,6 @@
 ![version](https://img.shields.io/badge/version-1.1.0-4FC3F7)
 ![platform](https://img.shields.io/badge/platform-Windows%20%7C%20Android-8CD9B8)
 ![GitHub release](https://img.shields.io/github/v/release/DelitrumDev/synapse)
-![GitHub downloads](https://img.shields.io/github/downloads/DelitrumDev/synapse/total)
 # Synapse
 > Быстрая передача файлов между устройствами в одной локальной сети. 
 > Без облаков, без серверов, без посредников.
