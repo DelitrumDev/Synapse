@@ -122,7 +122,7 @@
 
 ## 📬 Связь
 
-Вопросы, предложения, баги → **DevSynapseSupport@gmail.com**
+Вопросы, предложения, баги → **devsynapsesupport@gmail.com**
 
 ---
 
